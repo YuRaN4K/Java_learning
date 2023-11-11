@@ -1,3 +1,4 @@
+package New_page_program;
 import java.awt.Font;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
